@@ -1,0 +1,13 @@
+.circle{
+    height: 550px;
+    width: 550px;
+    background-color: rgb(165, 228, 230);
+    mix-blend-mode: multiply;
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 290px;
+    position: absolute;
+    
+    z-index: -10;
+    
+}

@@ -1,0 +1,7 @@
+.second-grid-container{
+    margin: auto;
+    width: 75%;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr) ;
+    gap: 5px;
+}

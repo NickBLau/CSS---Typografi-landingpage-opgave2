@@ -1,0 +1,8 @@
+.footer-bottom{
+    width: 75%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-weight: 700;
+    text-transform: none;
+}

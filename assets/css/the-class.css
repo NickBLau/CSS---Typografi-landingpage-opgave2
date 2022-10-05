@@ -1,0 +1,13 @@
+.the-class{
+    grid-column-start: 6;
+    grid-column-end: -1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    height: 200px;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    border-left: 1px black solid;
+}
+    
